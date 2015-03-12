@@ -1,0 +1,19 @@
+html{
+	box-sizing: border-box;
+}
+
+*, *::before, *::after{
+	box-sizing: inherit;
+}
+
+header{
+	border: 1px solid black;
+	position: relative;
+	background-color: #2b3951;
+}
+
+div{
+	position: relative;
+	width: 320px;
+	margin: 0 auto;
+}
